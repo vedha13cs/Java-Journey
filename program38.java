@@ -6,7 +6,7 @@ public class DoWhileLoop {
         do {
             System.out.println(i);
             i++;
-        } while(i <= 5);
+        } while(i <= 50);
 
     }
 }
