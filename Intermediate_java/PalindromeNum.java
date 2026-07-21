@@ -1,6 +1,6 @@
 public class PalindromeNumber {
 
-    public static void main(String[] args) {
+    public static void main(String[] args){
 
         int number = 121;
         int original = number;
